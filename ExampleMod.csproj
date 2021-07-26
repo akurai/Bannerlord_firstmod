@@ -1,0 +1,23 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net2.0</TargetFramework>
+    <OutDir>bin/Win64_Shipping_Client</OutDir>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="Core">
+      <HintPath>../../bin/Win64_Shipping_Client/TaleWorlds.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="Localization">
+      <HintPath>../../bin/Win64_Shipping_Client/TaleWorlds.Localization.dll</HintPath>
+    </Reference>
+    <Reference Include="MountAndBlade">
+      <HintPath>../../bin/Win64_Shipping_Client/TaleWorlds.MountAndBlade.dll</HintPath>
+    </Reference>
+    <Reference Include="DotNet">
+      <HintPath>../../bin/Win64_Shipping_Client/TaleWorlds.DotNet.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  
+</Project>

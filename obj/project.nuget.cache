@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "K9lbMq5HfW315GRa67+ojTm/vLiA9MWz9BYsla4w2/nHSbtwz+NxRUfBEIOTXzJFpZlUlVijks7ByZbqZE60Jg==",
+  "success": true,
+  "projectFilePath": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Mount & Blade II Bannerlord\\Modules\\ExampleMod\\ExampleMod.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\antal\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.0\\microsoft.netframework.referenceassemblies.1.0.0.nupkg.sha512",
+    "C:\\Users\\antal\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net20\\1.0.0\\microsoft.netframework.referenceassemblies.net20.1.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
